@@ -1,0 +1,10 @@
+name: ChatTips
+version: '${project.version}'
+main: biscoito.smp.biscoitosmptips.ChatTips
+api-version: '1.20'
+authors: [João]
+description: Manda dicas no chat
+commands:
+  dicas:
+    description: Desativa ou Ativa as dicas
+    usage: /<command>
